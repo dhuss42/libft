@@ -1,6 +1,6 @@
 # libft
 
-The Libft project is a foundational assignment aimed at helping students create their own library of standard C functions. By reimplementing essential functions from the C standard library, as well as developing additional utilities, students build a robust set of tools they can rely on for future projects. The project also introduces basic memory management and linked list handling through additional bonus functions.
+The Libft project is a foundational assignment aimed at helping students create their own library of standard C functions. By reimplementing essential functions from the C standard library, as well as developing additional utilities, we build a robust set of tools we can rely on for future projects. The project also introduces basic memory management and linked list handling through additional bonus functions.
 
 This is a list of all the functions contained in the libft project.
 
